@@ -37,4 +37,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: nouvalrfq/praktikum_popl4:latest
+        tags: nouvalrfq/praktikum-popl4:latest
